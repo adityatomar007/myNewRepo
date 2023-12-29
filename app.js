@@ -1,4 +1,4 @@
 console.log("This is my First Push onto the remote gitrepo");
 
-let fullName = "Lakshay Kumar";
+let fullName = "Aditya Tomar";
 console.log(`${fullName} is a awesome person`);
